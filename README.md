@@ -1,5 +1,3 @@
-# MohamedRezk
-Data Analyst | Power BI · SQL · Networking | Electronics Eng. @ Fayoum University 🎓🇪🇬
 <h1 align="left">Hey 👋 I'm Mohamed Rezk</h1>
 
 ###
